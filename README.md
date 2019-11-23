@@ -1,4 +1,4 @@
-# vcustomers
+# customers
 
 ## Project setup
 ```
