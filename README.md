@@ -24,3 +24,5 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 3、修改用户的数据
 4、删除用户
 5、每次操作完后会有一个警告框提醒用户
+6、可以通过搜索框查询到需要查找的用户
+
